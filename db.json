@@ -1,13 +1,5 @@
 {
  "partes":{
-    "nome": "",
-      "nacionalidade": "",
-      "estado_civil": "",
-      "qualificacao": "",
-      "cpf": "",
-      "cnpj": "",
-      "rg": "",
-      "rg_emissor": "",
-      "polo": ""
+    "nome": "joao"
   }
 }
