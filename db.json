@@ -1,10 +1,7 @@
 {
-  "resposta" :  {
-     "acao": {
-    "nm_vara": "",
-    "nm_comarca": "",
-    "nm_acao": "",
-    "valor_causa": ""
-    }
+ "user":{
+    "id": 1,
+    "name": "Naji",
+    "lastName": "Ali"
   }
 }
