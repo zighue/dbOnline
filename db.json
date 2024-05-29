@@ -1,6 +1,6 @@
 {
   "resposta" :  {
-     "partes": [
+     "partes": 
       {
         "nome": "",
         "nacionalidade": "",
@@ -13,6 +13,5 @@
         "endereco": {},
         "polo": ""
       }
-    ]
   }
 }
