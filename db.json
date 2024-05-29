@@ -1,7 +1,13 @@
 {
- "user":{
-    "id": 1,
-    "name": "Naji",
-    "lastName": "Ali"
+ "partes":{
+    "nome": "",
+      "nacionalidade": "",
+      "estado_civil": "",
+      "qualificacao": "",
+      "cpf": "",
+      "cnpj": "",
+      "rg": "",
+      "rg_emissor": "",
+      "polo": ""
   }
 }
