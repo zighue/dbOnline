@@ -1,5 +1,5 @@
 {
- "resposta" :  "partes": [
+ "resposta" :  ["partes": [
     {
       "nome": "",
       "nacionalidade": "",
@@ -25,5 +25,5 @@
     "cpfs": [],
     "cnpjs": [],
     "rgs": []
-  }
+  }]
 }
