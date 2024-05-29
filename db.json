@@ -1,29 +1,31 @@
 {
- "resposta" :  ["partes": [
-    {
-      "nome": "",
-      "nacionalidade": "",
-      "estado_civil": "",
-      "qualificacao": "",
-      "cpf": "",
-      "cnpj": "",
-      "rg": "",
-      "rg_emissor": "",
-      "endereco": {},
-      "polo": ""
-    }
-  ],
-  "acao": {
-    "nm_vara": "",
-    "nm_comarca": "",
-    "nm_acao": "",
-    "valor_causa": ""
-  },
-  "autocomplete": {
-    "nomes": [],
-    "enderecos": {},
-    "cpfs": [],
-    "cnpjs": [],
-    "rgs": []
-  }]
+ "resposta" :  {
+   "partes": [
+     {
+       "nome": "",
+       "nacionalidade": "",
+       "estado_civil": "",
+       "qualificacao": "",
+       "cpf": "",
+       "cnpj": "",
+       "rg": "",
+       "rg_emissor": "",
+       "endereco": {},
+       "polo": ""
+     }
+   ],
+   "acao": {
+     "nm_vara": "",
+     "nm_comarca": "",
+     "nm_acao": "",
+     "valor_causa": ""
+   },
+   "autocomplete": {
+     "nomes": [],
+     "enderecos": {},
+     "cpfs": [],
+     "cnpjs": [],
+     "rgs": []
+   }
+ }
 }
