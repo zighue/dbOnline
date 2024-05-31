@@ -1,7 +1,100 @@
 {
-  "parte":{
-    "nome": 1,
-    "nacionalidade": "Naji",
-    "estadocivil": "Ali"
-  }
+	"partes": [
+		{
+			"nome": "João da Silva",
+			"nacionalidade": "Brasileiro",
+			"estado_civil": "Casado",
+			"qualificacao": "Professor",
+			"cpf": "13277595005",
+			"cnpj": "",
+			"rg": "260499225",
+			"rg_emissor": "SSP",
+			"endereco": {
+				"logradouro": "Rua Alexandre Walter da Silva",
+				"numero": "82",
+				"bairro": "Loteamento Vale Azul I",
+				"complemento": "Esquina da passagem orivelas",
+				"cep": "13218-625",
+				"municipio": "Jundiaí"
+			},
+			"polo": "ativo"
+		},
+		{
+			"nome": "Mariana Silva",
+			"nacionalidade": "Brasileira",
+			"estado_civil": "Solteira",
+			"qualificacao": "Fisioterapeuta",
+			"cpf": "60464521041",
+			"cnpj": "",
+			"rg": "435637071",
+			"rg_emissor": "Polícia Civil",
+			"endereco": {
+				"logradouro": "Rua João Chamas",
+				"numero": "1264",
+				"bairro": "São Francisco",
+				"complemento": "Ao lado da capela São Judas",
+				"cep": "15086-190",
+				"municipio": "São José do Rio Preto"
+			},
+			"polo": "ativo"
+		},
+		{
+			"nome": "João Gomes",
+			"nacionalidade": "Brasileiro",
+			"estado_civil": "Casado",
+			"qualificacao": "Empresário",
+			"cpf": "34702843001",
+			"cnpj": "",
+			"rg": "451744603",
+			"rg_emissor": "Polícia Civil",
+			"endereco": {
+				"logradouro": "Avenida Carlos Oberhuber",
+				"numero": "504",
+				"bairro": "Jardim Floresta",
+				"complemento": "",
+				"cep": "04836-970",
+				"municipio": "São Paulo"
+			},
+			"polo": "passivo"
+		},
+		{
+			"nome": "Gomes Material de Construção",
+			"nacionalidade": "",
+			"estado_civil": "",
+			"qualificacao": "",
+			"cpf": "",
+			"cnpj": "72768072000194",
+			"rg": "",
+			"rg_emissor": "",
+			"endereco": {
+				"logradouro": "Avenida Fernando Mendes de Almeida",
+				"numero": "126",
+				"bairro": "Parque Taipas",
+				"complemento": "Proximo ao metrô parque verde",
+				"cep": "02987-100",
+				"municipio": "São Paulo"
+			},
+			"polo": "passivo"
+		}
+	],
+	"acao": {
+		"nm_vara": "",
+		"nm_comarca": "",
+		"nm_acao": "",
+		"valor_causa": "5000"
+	},
+	"autocomplete": {
+		"nomes": [],
+		"enderecos": {
+			"logradouros": [],
+			"numeros": [],
+			"bairros": [],
+			"complementos": [],
+			"ceps": [],
+			"municipios": []
+		},
+		"cpfs": [],
+		"cnpjs": [],
+		"rgs": []
+	}
 }
